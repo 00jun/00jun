@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=0.0jun&fontSize=70&animation=blink)
 
-<h1 align="center"> 📚 Education </h1>
+<h2 align="center"> 📚 Education </h2>
 
 <p align="center"> Bachelor of Science degree expected in Computer Science </p>
  
-<h1 align="center"> Interest </h1>
+<h2 align="center"> Interest </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>&nbsp 
