@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=0.0jun&fontSize=70&animation=blink)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00jun&count_bg=%233D69C8&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=%EB%B0%95%EC%98%81%EC%A4%80&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<p align="center"&fontSize=90>Park Young Jun</p>
 
 ### Hi there 👋
 
@@ -19,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F00jun&count_bg=%233D69C8&title_bg=%23000000&icon=unity.svg&icon_color=%23FFFFFF&title=%EB%B0%95%EC%98%81%EC%A4%80&edge_flat=false)](https://hits.seeyoufarm.com)
