@@ -27,9 +27,8 @@
 
 <h3 align="center"> 📃 Fork </h3>
 
-<p align="center">[맵생성](https://github.com/00jun/DungeonTemplateLibrary)</p>
- <br>
-<p align="center">[피스톤 게임엔진](https://github.com/00jun/piston)</p>
+- [맵생성](https://github.com/00jun/DungeonTemplateLibrary)
+- [피스톤 게임엔진](https://github.com/00jun/piston)
 
  
 
