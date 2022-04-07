@@ -5,8 +5,6 @@
 <p align="center"> Bachelor of Science degree expected in Computer Science </p>
 <p align="center"> I'm currently in the Jeju </p>
 
-<p align="center"> Bachelor of Science degree expected in Computer Science </p>
- 
 <h3 align="center"> 😆 Interest </h3>
 
 <p align="center">
